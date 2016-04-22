@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Sarajevo Night
-datePublished: '2016-04-22T22:51:37.353Z'
-dateModified: '2016-04-22T22:51:19.067Z'
+datePublished: '2016-04-22T23:28:19.691Z'
+dateModified: '2016-04-22T22:51:42.070Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-22-sarajevo-night.md
 published: true
+starred: true
 url: sarajevo-night/index.html
 _type: Article
 
