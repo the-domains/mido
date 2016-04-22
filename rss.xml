@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Midhat Mujkic]]></title>
         <description><![CDATA[Midhat Mujkic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mido/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 22:36:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 22:42:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mido/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aab050e4-a04e-461b-81bb-1b17db969f79.jpg">]]></description>
+            <link>https://thegrid.ai/mido/sarajevo-autumn/index.html</link>
+            <guid isPermaLink="false">34268fe6-a679-42fe-bbec-7ac5af777089</guid>
+            <pubDate>Fri, 22 Apr 2016 22:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed84e96b-ba87-4a1b-89ec-cebc652ea2c4.jpg">]]></description>
-            <link>undefinedsarajevo-summer/index.html</link>
+            <link>https://thegrid.ai/mido/sarajevo-summer/index.html</link>
             <guid isPermaLink="false">556a9ed4-1801-4741-a0ad-86feb6c7c949</guid>
             <pubDate>Fri, 22 Apr 2016 22:36:29 GMT</pubDate>
         </item>
