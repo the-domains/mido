@@ -1,9 +1,7 @@
-favicon: null
 name: Midhat Mujkic
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.74092
+typography_spectrum: 0
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.587234
-  brandStrength: 0.25
-  lightness: 0.5127659
   brandColors:
     - '#060a0d'
     - '#faf5f1'
     - '#d6bfba'
     - '#a08691'
     - '#685479'
-  rhythmicContrast: 0.2510638
-typography_spectrum: 0.4872341
-layout_spectrum: 0.3234043
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+  brandStrength: 0.5
+  lightness: 0.5127659
+  saturation: 1
+  rhythmicContrast: 0.25
+purpose: []
