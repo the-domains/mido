@@ -1,6 +1,6 @@
 name: Midhat Mujkic
 favicon: null
-layout_spectrum: 0.74092
+layout_spectrum: 1
 typography_spectrum: 0.49966
 collections:
   - index:
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#060a0d'
-    - '#faf5f1'
-    - '#d6bfba'
-    - '#a08691'
-    - '#685479'
-  brandStrength: 0.5
+    - '#a9ccdf'
+    - '#0093bf'
+    - '#010101'
+    - '#67a4c1'
+    - '#575654'
+  brandStrength: 0.25
   lightness: 0.5127659
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
