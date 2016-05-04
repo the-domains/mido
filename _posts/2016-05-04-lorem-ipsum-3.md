@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 3
-datePublished: '2016-05-04T18:19:50.659Z'
-dateModified: '2016-05-04T18:19:45.830Z'
+datePublished: '2016-05-04T18:23:45.802Z'
+dateModified: '2016-05-04T18:23:39.300Z'
 title: Sarajevo Night
 author:
   - name: ''
