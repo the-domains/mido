@@ -1,7 +1,7 @@
 name: Mido
 favicon: null
 layout_spectrum: 0.37489
-typography_spectrum: 0.37145
+typography_spectrum: 0.44528
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#192026'
-    - '#b26749'
-    - '#c9825e'
-    - '#b8a397'
-    - '#613732'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
+    - '#424242'
+    - '#666666'
+    - '#c5c5c5'
+    - '#222222'
+    - '#a8a8a8'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.9375
   rhythmicContrast: 0
 purpose: []
