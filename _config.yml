@@ -1,6 +1,6 @@
 name: Mido
 favicon: null
-layout_spectrum: 0.24856
+layout_spectrum: 0.37489
 typography_spectrum: 0.37145
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#b8a397'
     - '#613732'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0
 purpose: []
