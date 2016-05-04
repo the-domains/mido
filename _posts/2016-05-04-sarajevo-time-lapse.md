@@ -6,12 +6,13 @@ isBasedOnUrl: 'https://vimeo.com/129319993'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T19:23:25.539Z'
-dateModified: '2016-05-04T19:23:08.534Z'
+datePublished: '2016-05-04T19:23:48.547Z'
+dateModified: '2016-05-04T19:23:29.377Z'
 title: Sarajevo Time Lapse
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-04-sarajevo-time-lapse.md
 authors: []
 publisher:
   name: null
@@ -19,7 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-sarajevo-time-lapse.md
 _type: MediaObject
 
 ---
