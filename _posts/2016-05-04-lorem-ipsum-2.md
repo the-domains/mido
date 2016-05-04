@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 2
-datePublished: '2016-05-04T18:16:41.727Z'
-dateModified: '2016-05-04T18:16:26.474Z'
+datePublished: '2016-05-04T18:24:37.840Z'
+dateModified: '2016-05-04T18:24:33.929Z'
 title: Rama Lake
 author:
   - name: ''
