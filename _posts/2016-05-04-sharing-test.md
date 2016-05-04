@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.theverge.com/2016/5/4/11591326/bentley-apple-watch-app
 inLanguage: null
 keywords: []
 description: "Automakers are scrambling to turn their cars into \"connected\" cars right now - and for many, that means adding support for smartwatches. (Usually, they're just extensions of the phone apps that many of these cars already integrate with.) But more often than not, these smartwatch tools are just for the basics - remote start, finding your car, things of that nature."
-datePublished: '2016-05-04T20:25:52.682Z'
-dateModified: '2016-05-04T20:25:48.652Z'
-title: ''
+datePublished: '2016-05-04T20:35:56.133Z'
+dateModified: '2016-05-04T20:35:50.290Z'
+title: "Bentley's Apple Watch app lets you turn on the seat massagers from your wrist"
 author:
   - name: Chris Ziegler
     url: 'http://www.theverge.com/users/chrisziegler'
