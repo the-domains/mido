@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 3
-datePublished: '2016-05-04T18:10:23.022Z'
-dateModified: '2016-05-04T18:10:18.618Z'
-title: ''
-author: []
+datePublished: '2016-05-04T18:12:12.255Z'
+dateModified: '2016-05-04T18:12:03.109Z'
+title: Sarajevo Night
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-04-lorem-ipsum-3.md
 authors: []
 publisher:
