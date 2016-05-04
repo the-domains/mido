@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 3
-datePublished: '2016-05-04T18:10:09.791Z'
-dateModified: '2016-05-04T18:10:05.506Z'
+datePublished: '2016-05-04T18:10:23.022Z'
+dateModified: '2016-05-04T18:10:18.618Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-lorem-ipsum-3.md
