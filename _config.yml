@@ -1,7 +1,7 @@
-name: MIDO
+name: Mido
 favicon: null
-layout_spectrum: 0.75129
-typography_spectrum: 0.59691
+layout_spectrum: 0
+typography_spectrum: 0.30419
 collections:
   - index:
       path: /
