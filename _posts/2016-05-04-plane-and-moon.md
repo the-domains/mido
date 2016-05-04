@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Moon and Plane
-datePublished: '2016-05-04T18:25:31.352Z'
-dateModified: '2016-05-04T18:25:26.435Z'
+datePublished: '2016-05-04T18:29:20.281Z'
+dateModified: '2016-05-04T18:29:15.927Z'
 title: Plane and Moon
 author:
   - name: ''
@@ -19,8 +20,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: plane-and-moon/index.html
-_type: Article
+_type: Blurb
 
 ---
 **Moon and Plane**
