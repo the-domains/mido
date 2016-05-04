@@ -4,8 +4,15 @@
         <description><![CDATA[Mido]]></description>
         <link>https://thegrid.ai/mido/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 18:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 18:17:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mido/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About</p>]]></description>
+            <link>https://thegrid.ai/mido/about/index.html</link>
+            <guid isPermaLink="false">d0e9e55e-fdda-43b0-98c3-0e7f00fd6155</guid>
+            <pubDate>Wed, 04 May 2016 18:17:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rama Lake]]></title>
             <description><![CDATA[<article><h1>Rama Lake</h1><p>Lorem Ipsum 2</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/508f6fc6-ab40-42d9-8291-084e9da06924.jpg"></article>]]></description>
