@@ -4,21 +4,21 @@
         <description><![CDATA[Mido]]></description>
         <link>https://thegrid.ai/mido/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 17:37:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mido/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LI 2]]></title>
+            <description><![CDATA[<p>Lorem Ipsum 2</p>]]></description>
+            <link>https://thegrid.ai/mido/lorem-ipsum-2/index.html</link>
+            <guid isPermaLink="false">692b76e1-25e2-4eae-980d-f1b440342a25</guid>
+            <pubDate>Wed, 04 May 2016 17:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LI 3]]></title>
             <description><![CDATA[<p>Lorem Ipsum 3</p>]]></description>
             <link>https://thegrid.ai/mido/lorem-ipsum-3/index.html</link>
             <guid isPermaLink="false">0b008f13-f0e9-4853-8eab-153f0f549c18</guid>
             <pubDate>Wed, 04 May 2016 17:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Lorem Ipsum 2</p>]]></description>
-            <link>https://thegrid.ai/mido/lorem-ipsum-2/index.html</link>
-            <guid isPermaLink="false">692b76e1-25e2-4eae-980d-f1b440342a25</guid>
-            <pubDate>Wed, 04 May 2016 17:35:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LI 1]]></title>
