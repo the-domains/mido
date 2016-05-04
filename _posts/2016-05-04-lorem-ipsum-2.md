@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 2
-datePublished: '2016-05-04T18:08:53.128Z'
-dateModified: '2016-05-04T18:08:25.251Z'
-title: ''
-author: []
+datePublished: '2016-05-04T18:10:58.849Z'
+dateModified: '2016-05-04T18:10:53.025Z'
+title: Rama Lake
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-04-lorem-ipsum-2.md
 authors: []
 publisher:
