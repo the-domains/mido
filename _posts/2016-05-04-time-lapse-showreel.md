@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Time Lapse Showreel
-datePublished: '2016-05-04T18:33:21.790Z'
-dateModified: '2016-05-04T18:33:04.970Z'
+datePublished: '2016-05-04T18:33:30.830Z'
+dateModified: '2016-05-04T18:33:25.414Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-time-lapse-showreel.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-time-lapse-showreel.md
 url: time-lapse-showreel/index.html
 _type: Article
 
