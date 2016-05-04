@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/152690381'
+inLanguage: null
+keywords: []
+description: 'This is "Construction Time Lapse Showreel 2016" by midhat on Vimeo, the home for high quality videos and the people who love them.'
+datePublished: '2016-05-04T19:14:20.191Z'
+dateModified: '2016-05-04T19:14:16.016Z'
 author:
   - name: Midhat Mujkic
     url: 'http://vimeo.com/midhat'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Construction Time Lapse Showreel 2016" by midhat on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/152690381'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/152690381'
 title: Construction Time Lapse Showreel 2016
-datePublished: '2016-05-04T19:13:50.239Z'
-dateModified: '2016-05-04T19:13:04.827Z'
-starred: false
 sourcePath: _posts/2016-05-04-construction-time-lapse-showreel-2016.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
