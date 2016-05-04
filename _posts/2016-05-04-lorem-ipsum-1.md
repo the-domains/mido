@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 1
-datePublished: '2016-05-04T17:28:23.378Z'
-dateModified: '2016-05-04T17:28:13.860Z'
+datePublished: '2016-05-04T17:30:00.414Z'
+dateModified: '2016-05-04T17:28:54.877Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-lorem-ipsum-1.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-lorem-ipsum-1.md
 url: lorem-ipsum-1/index.html
 _type: Article
 
