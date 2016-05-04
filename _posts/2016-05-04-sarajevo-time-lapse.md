@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/129319993'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T19:24:02.170Z'
-dateModified: '2016-05-04T19:23:57.537Z'
+datePublished: '2016-05-04T19:26:14.502Z'
+dateModified: '2016-05-04T19:25:05.945Z'
 title: Sarajevo Time Lapse
 author:
   - name: ''
