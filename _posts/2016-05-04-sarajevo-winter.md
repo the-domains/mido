@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sarajevo, capital of Bosnia and Herzegovina, is a compact city on the Miljacka River, surrounded by the Dinaric Alps. Largely restored following the 1990s Bosnian War, its historic core has museums and sites commemorating historic local events, including the 1914 assassination of Archduke Franz Ferdinand, which ignited World War I, and the 1984 Winter Olympics. It hosts the influential Sarajevo Film Festival every summer.'
-datePublished: '2016-05-04T00:14:33.743Z'
-dateModified: '2016-05-04T00:14:01.906Z'
+datePublished: '2016-05-04T00:25:54.769Z'
+dateModified: '2016-05-04T00:25:44.333Z'
 title: Sarajevo Winter
 author:
   - name: ''
