@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/152690381'
 inLanguage: null
 keywords: []
 description: 'This is "Construction Time Lapse Showreel 2016" by midhat on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-05-04T19:20:34.365Z'
-dateModified: '2016-05-04T19:20:27.103Z'
+datePublished: '2016-05-04T19:26:19.386Z'
+dateModified: '2016-05-04T19:25:46.807Z'
 author:
   - name: Midhat Mujkic
     url: 'http://vimeo.com/midhat'
