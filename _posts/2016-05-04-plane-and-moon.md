@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Moon and Plane
-datePublished: '2016-05-04T18:09:36.674Z'
-dateModified: '2016-05-04T18:09:26.801Z'
+datePublished: '2016-05-04T18:21:40.571Z'
+dateModified: '2016-05-04T18:21:33.063Z'
 title: Plane and Moon
 author:
   - name: ''
