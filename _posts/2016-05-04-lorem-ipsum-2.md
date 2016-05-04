@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 2
-datePublished: '2016-05-04T17:48:56.175Z'
-dateModified: '2016-05-04T17:48:50.687Z'
+datePublished: '2016-05-04T18:08:53.128Z'
+dateModified: '2016-05-04T18:08:25.251Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-lorem-ipsum-2.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: lorem-ipsum-2/index.html
-_type: Article
+_type: WebPage
 
 ---
 **Lorem Ipsum 2**
