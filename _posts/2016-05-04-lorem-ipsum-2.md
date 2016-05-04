@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Lorem Ipsum 2
-datePublished: '2016-05-04T17:35:29.774Z'
-dateModified: '2016-05-04T17:35:11.770Z'
+datePublished: '2016-05-04T17:37:42.625Z'
+dateModified: '2016-05-04T17:37:38.061Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-lorem-ipsum-2.md
