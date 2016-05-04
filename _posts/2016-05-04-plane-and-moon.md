@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Moon and Plane
-datePublished: '2016-05-04T18:24:14.565Z'
-dateModified: '2016-05-04T18:24:07.170Z'
+datePublished: '2016-05-04T18:25:31.352Z'
+dateModified: '2016-05-04T18:25:26.435Z'
 title: Plane and Moon
 author:
   - name: ''
