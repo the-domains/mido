@@ -4,8 +4,15 @@
         <description><![CDATA[Mido]]></description>
         <link>https://thegrid.ai/mido/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 20:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 08:26:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mido/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just testing #dji #phantom4 Wonderful thing @djiglobal #sarajevo #bosnia]]></title>
+            <description><![CDATA[<article><h1>Just testing #dji #phantom4 Wonderful thing @djiglobal #sarajevo #bosnia</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0adf35b2cbf70a0bedad85b07a196ea46ba6a44.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BFEFxEdRhYt/</link>
+            <guid isPermaLink="false">acc502d7-5c84-4251-b34e-54c16fe63691</guid>
+            <pubDate>Sun, 08 May 2016 08:25:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The power of OS X's menu bar]]></title>
             <description><![CDATA[<article><h1>The power of OS X's menu bar</h1><p>The menu bar at the top of the screen has been with the Mac since the beginning. It's one of the defining characteristics of the Mac, one that even Microsoft didn't dare duplicate-in Windows, the menu bars go on the top of windows, not at the top of the screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/654804cff7dda93234cc132d7ecc3cda82347899.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mido/lorem-ipsum-1/index.html</link>
             <guid isPermaLink="false">5dd0b17e-f945-4842-b4c7-a4a0a7fd85df</guid>
             <pubDate>Wed, 04 May 2016 17:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sarajevo Winter]]></title>
-            <description><![CDATA[<article><h1>Sarajevo Winter</h1><p>Sarajevo, capital of Bosnia and Herzegovina, is a compact city on the Miljacka River, surrounded by the Dinaric Alps. Largely restored following the 1990s Bosnian War, its historic core has museums and sites commemorating historic local events, including the 1914 assassination of Archduke Franz Ferdinand, which ignited World War I, and the 1984 Winter Olympics. It hosts the influential Sarajevo Film Festival every summer.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72734941-39d5-4fa5-b960-f39a6380d0d7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mido/sarajevo-winter/index.html</link>
-            <guid isPermaLink="false">66570ec8-3eb5-4598-b83f-1084af1d9235</guid>
-            <pubDate>Wed, 04 May 2016 17:25:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
