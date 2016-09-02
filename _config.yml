@@ -1,7 +1,18 @@
+layout_spectrum: 0.02496828557923436
+typography_spectrum: 0.15626871585845947
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.4694972299039364
+  lightness: 0.8110508115496486
+  saturation: 0.36813680175691843
+  rhythmicContrast: 0.6709545266348869
 name: Mido
 favicon: null
-layout_spectrum: 0.37489
-typography_spectrum: 0.44528
 collections:
   - index:
       path: /
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#424242'
-    - '#666666'
-    - '#c5c5c5'
-    - '#222222'
-    - '#a8a8a8'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0
 purpose: []
