@@ -1,4 +1,3 @@
-layout_spectrum: 0.02496828557923436
 typography_spectrum: 0.15626871585845947
 color:
   brandColors:
@@ -11,7 +10,24 @@ color:
   lightness: 0.8110508115496486
   saturation: 0.36813680175691843
   rhythmicContrast: 0.6709545266348869
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.02496828557923436
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: Mido
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Mido.me
+    url: mido.me
+    type: external
 favicon: null
 collections:
   - index:
@@ -26,16 +42,4 @@ collections:
       format: rss
       number: 10
 title: Mido
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 purpose: []
