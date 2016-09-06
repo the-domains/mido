@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Mido.me
+  - name: mido.me
     url: mido.me
     type: external
 favicon: null
