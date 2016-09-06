@@ -1,45 +1,45 @@
-typography_spectrum: 0.15626871585845947
-color:
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.4694972299039364
-  lightness: 0.8110508115496486
-  saturation: 0.36813680175691843
-  rhythmicContrast: 0.6709545266348869
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.02496828557923436
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Mido
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: mido.me
-    url: 'http://mido.me'
-    type: external
-favicon: null
+title: Mido
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Mido
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.1042553
+  brandStrength: 0.2255319
+  lightness: 0.8446808
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  rhythmicContrast: 0.6709545
+navigation:
+  - name: mido.me
+    url: 'http://mido.me'
+    type: external
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Mido
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2617021
+layout_spectrum: 0.7404255
