@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: mido.me
-    url: mido.me
-    type: external
 favicon: null
 collections:
   - index:
